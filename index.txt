@@ -1,3 +1,4 @@
 Rencana kedepan Youtube Santri Programmer
 
 1. membuat tutorial AI
+2. membuat tutorial game
